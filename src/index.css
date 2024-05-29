@@ -1,0 +1,21 @@
+/* src/index.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  button {
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
